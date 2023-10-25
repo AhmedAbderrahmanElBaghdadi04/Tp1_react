@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './ap1.css';
 
-import Calculatrice from '.tp1ccl/Calculatrice';
+import Calculatrice from '../src/tp1ccl/Calculatrice1';
 
 
 function App() {
