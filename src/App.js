@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './ap1.css';
-import '/Calcul1';
-import Calcul1 from '/Calcul1';
+
+import Calculatrice from '.tp1ccl/Calculatrice';
 
 
 function App() {
   return (
     <div className="App">
-   <Calcul1></Calcul1>
+   <Calculatrice></Calculatrice>
     </div>
   );
 }
