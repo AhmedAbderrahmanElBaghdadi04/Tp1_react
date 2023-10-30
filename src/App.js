@@ -1,5 +1,6 @@
 import logo from './logo.svg';
-import './ap1.css';
+import './ap2.css';
+import Slider from './tp2sld/Slider';
 
 import Calculatrice from '../src/tp1ccl/Calculatrice1';
 
@@ -7,7 +8,7 @@ import Calculatrice from '../src/tp1ccl/Calculatrice1';
 function App() {
   return (
     <div className="App">
-   <Calculatrice></Calculatrice>
+   <Slider />
     </div>
   );
 }
