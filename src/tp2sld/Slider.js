@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import './ap2.css';
 
 
 
@@ -38,7 +37,7 @@ export default function Slider() {
       <div>
         <div><h1>Best views</h1></div>
         <div id='cont_sl'><div>
-      <img src={images[currentImageIndex]} alt="Photo" />
+      <img src={SliderImage[currentImageIndex]} alt="Photo" />
       <button onClick={prevImage}>Précédent</button>
       <button onClick={nextImage}>Suivant</button>
     </div></div>
