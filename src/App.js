@@ -1,5 +1,4 @@
 import logo from './logo.svg';
-import './ap2.css';
 import Slider from './tp2sld/Slider';
 
 import Calculatrice from '../src/tp1ccl/Calculatrice1';
